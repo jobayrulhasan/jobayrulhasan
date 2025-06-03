@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jobayrul Hasan</h1>
 <h3 align="center">A passionate software developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://iconscout.com/lottie-animation/back-end-developer-4098969_3428942" alt="jobayrulhasan" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jobayrulhasan&label=Profile%20views&color=0e75b6&style=flat" alt="jobayrulhasan" /> </p>
 
