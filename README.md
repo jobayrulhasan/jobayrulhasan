@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Insurance Management System**
 
-- 🌱 I’m currently learning **Backed API Development with Python**
+- 🌱 I’m currently learning **Agentic AI Development**
 
 - 👯 I’m looking to collaborate on **Retail, Bancassurance and Group insurance application**
 
