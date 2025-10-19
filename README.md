@@ -40,6 +40,21 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
+<!-- New Additions -->
+  <a href="https://platform.openai.com/docs/overview" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="Agentic AI" width="40" height="40"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Large_language_model" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/ai.svg" alt="LLM" width="40" height="40"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Natural_language_processing" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/nlp.svg" alt="NLP" width="40" height="40"/>
+  </a>
+  <a href="https://modelcontextprotocol.io/" target="_blank" rel="noreferrer">
+    <img src="https://modelcontextprotocol.io/img/mcp-icon.svg" alt="MCP" width="40" height="40"/>
+  </a>
+  
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jobayrulhasan&show_icons=true&locale=en&layout=compact" alt="jobayrulhasan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jobayrulhasan&show_icons=true&locale=en" alt="jobayrulhasan" /></p>
