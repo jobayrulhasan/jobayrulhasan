@@ -52,8 +52,9 @@
 </a>
 
 <!-- MCP Icon (Alternative) -->
+<!-- MCP Icon (Fixed) -->
 <a href="https://modelcontextprotocol.io/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/openai/openai-cookbook/main/apps/mcp/mcp-logo.png" alt="MCP" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="MCP" width="40" height="40"/>
 </a>
 
 </p>
