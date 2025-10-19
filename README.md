@@ -47,12 +47,14 @@
   <a href="https://en.wikipedia.org/wiki/Large_language_model" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/ai.svg" alt="LLM" width="40" height="40"/>
   </a>
-  <a href="https://en.wikipedia.org/wiki/Natural_language_processing" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nlp.svg" alt="NLP" width="40" height="40"/>
-  </a>
-  <a href="https://modelcontextprotocol.io/" target="_blank" rel="noreferrer">
-    <img src="https://modelcontextprotocol.io/img/mcp-icon.svg" alt="MCP" width="40" height="40"/>
-  </a>
+<a href="https://en.wikipedia.org/wiki/Natural_language_processing" target="_blank" rel="noreferrer">
+  <img src="https://cdn-icons-png.flaticon.com/512/9435/9435693.png" alt="NLP" width="40" height="40"/>
+</a>
+
+<!-- MCP Icon (Alternative) -->
+<a href="https://modelcontextprotocol.io/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/openai/openai-cookbook/main/apps/mcp/mcp-logo.png" alt="MCP" width="40" height="40"/>
+</a>
 
 </p>
 
