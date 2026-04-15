@@ -20,46 +20,44 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me</h3>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/jobayrulhasan/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" width="40" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/jobayerorthi" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="35" width="40" />
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+---
 
-  <a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cs/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.djangoproject.com/"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/></a>
-  <a href="https://dotnet.microsoft.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.microsoft.com/en-us/sql-server"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://fastapi.tiangolo.com/"><img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" width="40" height="40"/></a>
+<h3 align="center">Languages and Tools</h3>
 
-  <!-- AI stack -->
-  <a href="https://platform.openai.com/docs/overview"><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="40" height="40"/></a>
-  <a href="https://en.wikipedia.org/wiki/Large_language_model"><img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" width="40" height="40"/></a>
-  <a href="https://en.wikipedia.org/wiki/Natural_language_processing"><img src="https://cdn-icons-png.flaticon.com/512/9435/9435693.png" width="40" height="40"/></a>
-  <a href="https://modelcontextprotocol.io/"><img src="https://cdn-icons-png.flaticon.com/512/2329/2329087.png" width="40" height="40"/></a>
+<table align="center">
+  <tr>
+    <td align="center"><a href="https://dotnet.microsoft.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="50"/><br>.NET</a></td>
+    <td align="center"><a href="https://www.djangoproject.com/"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="50"/><br>Django</a></td>
+    <td align="center"><a href="https://fastapi.tiangolo.com/"><img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" width="50"/><br>FastAPI</a></td>
+    <td align="center"><a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50"/><br>React</a></td>
+    <td align="center"><a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="50"/><br>Bootstrap</a></td>
+  </tr>
 
-</p>
+  <tr>
+    <td align="center"><a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/><br>Python</a></td>
+    <td align="center"><a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50"/><br>C</a></td>
+    <td align="center"><a href="https://www.w3schools.com/cs/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50"/><br>C#</a></td>
+    <td align="center"><a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50"/><br>HTML5</a></td>
+    <td align="center"><a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50"/><br>CSS3</a></td>
+  </tr>
 
-
-
-  
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jobayrulhasan&show_icons=true&locale=en&layout=compact" alt="jobayrulhasan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jobayrulhasan&show_icons=true&locale=en" alt="jobayrulhasan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jobayrulhasan&" alt="jobayrulhasan" /></p>
+  <tr>
+    <td align="center"><a href="https://www.microsoft.com/en-us/sql-server"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="50"/><br>SQL Server</a></td>
+    <td align="center"><a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50"/><br>MySQL</a></td>
+    <td align="center"><a href="https://platform.openai.com/docs/overview"><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="50"/><br>AI</a></td>
+    <td align="center"><a href="https://en.wikipedia.org/wiki/Natural_language_processing"><img src="https://cdn-icons-png.flaticon.com/512/9435/9435693.png" width="50"/><br>NLP</a></td>
+    <td align="center"><a href="https://modelcontextprotocol.io/"><img src="https://cdn-icons-png.flaticon.com/512/2329/2329087.png" width="50"/><br>MCP</a></td>
+  </tr>
+</table>
