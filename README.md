@@ -34,10 +34,6 @@
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40"/><br>
       Facebook
     </td>
-    <td align="center">
-      <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40"/><br>
-      Email
-    </td>
   </tr>
 </table>
 
@@ -47,26 +43,26 @@
 
 <table align="center">
   <tr>
-    <td align="center"><a href="https://dotnet.microsoft.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="50"/><br>.NET</a></td>
-    <td align="center"><a href="https://www.djangoproject.com/"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="50"/><br>Django</a></td>
-    <td align="center"><a href="https://fastapi.tiangolo.com/"><img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" width="50"/><br>FastAPI</a></td>
-    <td align="center"><a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50"/><br>React</a></td>
-    <td align="center"><a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="50"/><br>Bootstrap</a></td>
+    <td align="center"><a href=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="50"/><br>.NET</a></td>
+    <td align="center"><a href=""><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="50"/><br>Django</a></td>
+    <td align="center"><a href=""><img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" width="50"/><br>FastAPI</a></td>
+    <td align="center"><a href=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50"/><br>React</a></td>
+    <td align="center"><a href=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="50"/><br>Bootstrap</a></td>
   </tr>
 
   <tr>
-    <td align="center"><a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/><br>Python</a></td>
-    <td align="center"><a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50"/><br>C</a></td>
-    <td align="center"><a href="https://www.w3schools.com/cs/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50"/><br>C#</a></td>
-    <td align="center"><a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50"/><br>HTML5</a></td>
-    <td align="center"><a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50"/><br>CSS3</a></td>
+    <td align="center"><a href=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/><br>Python</a></td>
+    <td align="center"><a href=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50"/><br>C</a></td>
+    <td align="center"><a href=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50"/><br>C#</a></td>
+    <td align="center"><a href=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50"/><br>HTML5</a></td>
+    <td align="center"><a href=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50"/><br>CSS3</a></td>
   </tr>
 
   <tr>
-    <td align="center"><a href="https://www.microsoft.com/en-us/sql-server"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="50"/><br>SQL Server</a></td>
-    <td align="center"><a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50"/><br>MySQL</a></td>
-    <td align="center"><a href="https://platform.openai.com/docs/overview"><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="50"/><br>AI</a></td>
-    <td align="center"><a href="https://en.wikipedia.org/wiki/Natural_language_processing"><img src="https://cdn-icons-png.flaticon.com/512/9435/9435693.png" width="50"/><br>NLP</a></td>
-    <td align="center"><a href="https://modelcontextprotocol.io/"><img src="https://cdn-icons-png.flaticon.com/512/2329/2329087.png" width="50"/><br>MCP</a></td>
+    <td align="center"><a href=""><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="50"/><br>SQL Server</a></td>
+    <td align="center"><a href=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50"/><br>MySQL</a></td>
+    <td align="center"><a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="50"/><br>AI</a></td>
+    <td align="center"><a href=""><img src="https://cdn-icons-png.flaticon.com/512/9435/9435693.png" width="50"/><br>NLP</a></td>
+    <td align="center"><a href=""><img src="https://cdn-icons-png.flaticon.com/512/2329/2329087.png" width="50"/><br>MCP</a></td>
   </tr>
 </table>
