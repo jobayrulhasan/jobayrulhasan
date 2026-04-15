@@ -22,15 +22,24 @@
 
 <h3 align="center">Connect with me</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jobayrulhasan/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" width="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/jobayerorthi" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="35" width="40" />
-  </a>
-</p>
+<h3 align="center">Contact Me</h3>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/><br>
+      LinkedIn
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40"/><br>
+      Facebook
+    </td>
+    <td align="center">
+      <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40"/><br>
+      Email
+    </td>
+  </tr>
+</table>
 
 ---
 
