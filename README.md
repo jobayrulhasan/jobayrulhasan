@@ -25,23 +25,21 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/><br>
-      LinkedIn
+      <a href="https://www.linkedin.com/in/jobayrulhasan/" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/><br>
+        LinkedIn
+      </a>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40"/><br>
-      Facebook
-    </td>
-    <td align="center">
-      <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40"/><br>
-      Email
+      <a href="https://www.facebook.com/Jobayerorthi" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40"/><br>
+        Facebook
+      </a>
     </td>
   </tr>
-
   <tr>
     <td align="center">jobayrulhasan</td>
     <td align="center">jobayerorthi</td>
-    <td align="center">jobayerdpi11@gmail.com</td>
   </tr>
 </table>
 
