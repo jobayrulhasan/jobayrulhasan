@@ -37,10 +37,6 @@
       </a>
     </td>
   </tr>
-  <tr>
-    <td align="center">jobayrulhasan</td>
-    <td align="center">jobayerorthi</td>
-  </tr>
 </table>
 
 ---
